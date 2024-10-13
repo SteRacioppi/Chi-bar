@@ -3,7 +3,7 @@ Generation of the function nchi for molecular systems from Gaussian calculations
 
  X_space Version 2.0 October 2024
 
- Written by Dr. Stefano Racioppi, SUNY Buffalo
+ Written by Dr. Stefano Racioppi, SUNY Buffalo. email: sraciopp@buffalo.edu
 
  This program generates a cube file containing the spatial distribution of X(r).
  following a quantum mechanical calculation of a molecule performed with the software Gaussian.

@@ -1,4 +1,4 @@
-# Chi-bar
+# Chi-bar, Atomic and Molecular Electronegativity
 Generation of the function nchi for molecular systems from Gaussian calculations
 
  X_space Version 2.0 October 2024

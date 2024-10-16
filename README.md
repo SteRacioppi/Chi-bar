@@ -23,3 +23,12 @@ Description  -f name of file with list of cube files that should be summed
              -o name of outputfile
              
 Further instructions are reported in the Supporting Information of https://doi.org/10.1002/chem.202103477
+
+
+PARSING OF FILE.LOG
+
+The script parse_log.py is an additional tool that will print the list of Alpha and Beta occupied orbitals, which may facilitate the generation of the file "orbitalslist.dat". Use it as
+
+python parse_log.py filename.log
+
+
